@@ -1,4 +1,4 @@
-# BreakFast Meals
+# Breakfast Meals
 
 ![App Screenshot](src/img/FoodDeliveryApp.png)
 
