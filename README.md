@@ -1,6 +1,6 @@
 # BreakFast Meals
 
-![App Screenshot](src/img/FoodDeliveryApp.png)
+![App Screenshot](https://kartikjs.netlify.app/assets/img/FoodDeliveryApp.png)
 
 ## Demo
 
