@@ -2,7 +2,6 @@
 
 ![ScreenShot](/FoodDeliveryApp.png)
 
-
 ## Demo
 
 [View Demo](https://react-food-appgit.web.app/)
