@@ -1,6 +1,6 @@
 # Breakfast Meals
 
-![ScreenShot](src/img/FoodDeliveryApp.png)
+![ScreenShot](/FoodDeliveryApp.png)
 
 
 ## Demo
