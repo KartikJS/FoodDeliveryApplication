@@ -2,6 +2,11 @@
 
 ![App Screenshot](src/img/FoodDeliveryApp.png)
 
+
+## Demo
+
+[View Demo](https://react-food-appgit.web.app/)
+
 ## About The Project
 
 Breakfast Meals is an application built using
