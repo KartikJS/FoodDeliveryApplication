@@ -1,6 +1,6 @@
-# Breakfast Meals
+# BreakFast Meals
 
-![ScreenShot](src/img/FoodDeliveryApp.png)
+![App Screenshot](src/img/FoodDeliveryApp.png)
 
 ## Demo
 
